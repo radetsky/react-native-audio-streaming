@@ -1,6 +1,25 @@
 
 # react-native-audio-streaming
 
+## Notes
+
+This is a fork of original package tlenclos/react-native-audio-streaming.
+
+Fork updated to be more stable with navigataion, has many improvements to work under android:
+- work with AudioFocus
+- try to use Foreground and STICKY service
+- restart playback automatically
+
+Many patches which I do not remember because it it small.
+Main updates personal for me to be compatible with more.fm services
+- use windows-1251 encoding
+- split meta information about song name is very specific.
+
+## TODO
+
+- setup specific more.fm features depends on some constant
+
+
 ## Features
 
 - Background audio streaming of remote stream
@@ -71,7 +90,7 @@ In XCode, in the project navigator, select your project. Add `libReactNativeAudi
   	```
       compile project(':react-native-audio-streaming')
   	```
-  	
+
 ## Usage
 
 ### Playing sound (similar code used by the player UI)
