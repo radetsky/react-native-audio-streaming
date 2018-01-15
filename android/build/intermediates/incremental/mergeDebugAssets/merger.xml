@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/assets"/><source path="/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/debug/assets"/></dataSet></merger>

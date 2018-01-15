@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_next.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_next.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_rew.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_rew.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_play.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_play.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_fullscreen.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_fullscreen.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_previous.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_previous.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_embed_play.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_embed_play.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_pause.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_pause.png"
+    },
+    {
+        "merged": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/build/intermediates/res/merged/release/drawable-ldpi-v4/ic_media_ff.png",
+        "source": "/Users/rad/git/js/react_native/RadioKS/node_modules/react-native-audio-streaming/android/src/main/res/drawable-ldpi/ic_media_ff.png"
+    }
+]
